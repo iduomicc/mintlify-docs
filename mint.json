@@ -58,7 +58,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "API手册",
       "pages": [
         "essentials/markdown",
         "essentials/code",
