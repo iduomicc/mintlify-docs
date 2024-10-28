@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "多米API文档",
+  "name": "多米API文档", 
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
